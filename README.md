@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GutHub da DIO :book:
+# Desafio de Projeto sobre Git/GitHub da DIO :book:
 Repositório criado para o desafio de projeto.
 
 ## Introdução ao Git e GitHub
